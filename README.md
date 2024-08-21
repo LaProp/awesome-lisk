@@ -3,6 +3,12 @@
 <img src="https://cryptologos.cc/logos/lisk-lsk-logo.svg" data-canonical-src="https://cryptologos.cc/logos/lisk-lsk-logo.svg" width="200" height="200" />
 </div>
 
+## Ecosystem overview
+
+<img src="https://firebasestorage.googleapis.com/v0/b/laprop-d55ac.appspot.com/o/lisk%2Flisk-ecosystem.png?alt=media&token=854d5280-3248-4650-8872-8f8939167add" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/laprop-d55ac.appspot.com/o/lisk%2Flisk-ecosystem.png?alt=media&token=854d5280-3248-4650-8872-8f8939167add" width="200" height="200" />
+
+https://firebasestorage.googleapis.com/v0/b/laprop-d55ac.appspot.com/o/lisk%2Flisk-ecosystem.png?alt=media&token=854d5280-3248-4650-8872-8f8939167add
+
 
 ## Content
 
