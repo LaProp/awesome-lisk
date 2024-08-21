@@ -14,6 +14,7 @@
 - [Account Abstraction](#account-abstraction)
 - [Automation](#automation)
 - [Randomness](#randomness)
+- [Relay Services](#relay-services)
 - [Indexers](#indexers)
 
 
@@ -27,3 +28,37 @@
 ## DEXs
 
 - [Oku](https://oku.trade/app/lisk)
+
+## API-Providers
+
+- [Lisk Providers](https://docs.lisk.com/lisk-tools/api-providers)
+
+## Faucets
+
+- [Lisk Sepolia](https://sepolia-faucet.lisk.com/)
+- [Superchain](https://app.optimism.io/faucet)
+
+## Oracles
+
+- [Redstone](https://redstone.finance/)
+
+## Account Abstraction
+
+- [Safe](https://safe.optimism.io/welcome?chain=lisk)
+- [1Balance](https://docs.gelato.network/web3-services/1balance)
+
+## Automation
+
+- [Gelato Web3 Functions](https://www.gelato.network/web3-functions)
+
+## Relay Services
+
+- [Gelato Relay](https://www.gelato.network/relay)
+
+## Randomness
+
+- [Gelato VRF](https://www.gelato.network/vrf)
+
+## Indexers
+
+- [Goldsky](https://goldsky.com/)
