@@ -34,6 +34,7 @@
 ## DEXs
 
 - [Oku](https://oku.trade/app/lisk)
+- [Velodrome](https://velodrome.finance/)
 
 ## API-Providers
 
@@ -68,3 +69,11 @@
 ## Indexers
 
 - [Goldsky](https://goldsky.com/)
+
+## RWA
+
+- [Enevti](https://enevti.com/)
+
+## Metaverse
+
+- [Volaverse](https://www.volaverse.com/)
