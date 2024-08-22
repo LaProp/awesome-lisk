@@ -22,6 +22,8 @@
 - [Randomness](#randomness)
 - [Relay Services](#relay-services)
 - [Indexers](#indexers)
+- [RWA](#rwa)
+- [Metavarse](#metaverse)
 
 
 ## Bridges
